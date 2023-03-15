@@ -115,7 +115,7 @@ Você poderá encontrar detalhes no mesmo.
 
 ## Grupo - SheAnalyses
 
-![1678919788585](image/README/1678919788585.png)![1678920120733](image/README/1678920120733.png)
+![1678919788585](image/README/1678919788585.png)![1678922005355](image/README/1678922005355.png)
 
 | Ana Paula Santos de Queiroz<br /><br />Linkedin: [/ana-paula-santos-de-queiroz-086807166](https://www.linkedin.com/in/ana-paula-santos-de-queiroz-086807166/)<br />Github: [/Queirozaps](https://github.com/Queirozaps) | ![1678913762981](image/README/1678913762981.png) |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: |
