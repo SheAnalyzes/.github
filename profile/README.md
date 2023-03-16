@@ -15,7 +15,7 @@ Este é o Projeto Final do Curso Data Engineer/Azure, desenvolvido pela Accentur
 - [Versão em Spark](#versão-em-spark)
 - [Instalação](#instalação)
 - [Modelagem de Entidades Relacionais](#modelagem-de-entidades-relacionais)
-- [Relatórios em SQL](#relatórios_em_sql)
+- [Relatórios em SQL](#relatórios-em-sql)
 - [Relatórios do Power BI](#relatórios-em-power-bi)
 - [Grupo - SheAnalyses](#grupo---sheanalyses)
 
