@@ -14,7 +14,7 @@ Este é o Projeto Final do Curso Data Engineer/Azure, desenvolvido pela Accentur
 - [Versão em Pandas](#versão-em-pandas)
 - [Versão em Spark](#versão-em-spark)
 - [Instalação](#instalação)
-- [Modelagem de entidades e relacional](#modelagem-de-entidades-e-relacional)
+- [Modelagem de Entidades Relacionais](#modelagem-de-entidades-relacionais)
 - [Relatórios do Power BI](#relatórios-em-power-bi)
 - [Grupo - SheAnalyses](#grupo---sheanalyses)
 
@@ -97,7 +97,7 @@ Para fazer a instalação das aplicações, siga os passos a seguir:
 4. Execute o comando a seguir: `pip install -r requirements.txt`
 5. Execute a aplicação dando o comando '*python3 main.py*' em seu terminal.
 
-## Modelagem 
+## Modelagem de Entidades Relacionais
 
 ![image](https://user-images.githubusercontent.com/70452464/225645859-4585355c-85f1-48a8-9172-62b5a936334f.png)
 
