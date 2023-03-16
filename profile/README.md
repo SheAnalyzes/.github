@@ -97,9 +97,9 @@ Para fazer a instalação das aplicações, siga os passos a seguir:
 4. Execute o comando a seguir: `pip install -r requirements.txt`
 5. Execute a aplicação dando o comando '*python3 main.py*' em seu terminal.
 
-## Modelagem de entidades e relacional
+## Modelagem 
 
-![1678851303006](image/README/1678851303006.png)
+![image](https://user-images.githubusercontent.com/70452464/225645859-4585355c-85f1-48a8-9172-62b5a936334f.png)
 
 ## Relatórios em SQL
 
