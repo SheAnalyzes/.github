@@ -17,7 +17,7 @@ Este é o Projeto Final do Curso Data Engineer/Azure, desenvolvido pela Accentur
 - [Modelagem de Entidades Relacionais](#modelagem-de-entidades-relacionais)
 - [Relatórios em SQL](#relatórios-em-sql)
 - [Relatórios do Power BI](#relatórios-em-power-bi)
-- [Apresentação Final em Power Point](#apresentacao-final-em-power-point)
+- [Apresentação Final em Power Point](#apresentação-final-em-power-point)
 - [Grupo - SheAnalyses](#grupo---sheanalyses)
 
 ## Visão geral
@@ -115,7 +115,7 @@ Para acessar o repositório do relatório em PowerBI acesse [aqui](https://githu
 
 Você poderá encontrar detalhes no mesmo.
 
-## Apresentação Final em Power BI
+## Apresentação Final em Power Point
 
 Para acessar o arquivo da apresentação final, clique [aqui](https://drive.google.com/drive/folders/1_WPCXhbGbgmrmBxR8bhePYl6zp-nyEV1?usp=sharing).
 
